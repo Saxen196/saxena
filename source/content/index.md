@@ -7,9 +7,7 @@ Hey everyone. I've just graduated from the University of Manchester, completing 
 
 **Postgraduate Student in Economics**
 
-Driven by systems, connections, and relationships. Interested in Macroeconometric Analysis, Modelling, and Forecasting in applications among Central Banking, Macroprudential Policy, and Credit Market contexts.
-
-Practiced in advanced statistical analysis and inference, mathematical and financial foundations, and economic modelling. Each developed through coursework, career development opportunities, and self-exploration.
+Driven by systems, connections, and relationships. Interested in Macroeconometric Analysis, Modelling, and Forecasting in applications among Central Banking, Macroprudential Policy, and Credit Market contexts. Practiced in advanced statistical analysis and inference, mathematical and financial foundations, and economic modelling. Each developed through coursework, career development opportunities, and self-exploration.
 Reach me via [Email](mailto:saxen196@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arnavsaxen/)
 ---
 
