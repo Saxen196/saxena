@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "experience.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "experience.md"
             }
           }
         ],
@@ -187,10 +187,11 @@
   },
   "active": "9b0cff21e01b51ed",
   "lastOpenFiles": [
-    "About Me.md",
+    "education.md.md",
+    "experience.md.md",
+    "category-folder/index.md",
     "index.md",
     "category-folder/Some note.md",
-    "category-folder/index.md",
     "category-folder"
   ]
 }
